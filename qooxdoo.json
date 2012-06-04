@@ -1,14 +1,14 @@
 {
     "framework": "qooxdoo",
     "url": "http://qooxdoo.org",
-    "framework_current_version" : "1.5",
-    "comparison_data_last_update" : "09.19.2011",
+    "framework_current_version" : "2.0",
+    "comparison_data_last_update" : "06.04.2012",
 
     "ios":"true",
     "android":"true",
     "windowsmobile":"false",
-    "windowsphone":"soon",
-    "blackberry":"false",
+    "windowsphone":"false",
+    "blackberry":"true1",
     "symbian":"false",
     "meego": "false",
     "maemo": "false",
@@ -50,6 +50,10 @@
     "bluetooth": "false",
     "nfc": "false",
     "vibration": "false",
+
+    "sdk": "true",
+    "encryption": "false",
+    "ads": "false",
 
     "cd": "true",
     "widgets": "true",
