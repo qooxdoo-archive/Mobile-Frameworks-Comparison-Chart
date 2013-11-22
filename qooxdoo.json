@@ -7,7 +7,7 @@
     "ios":"true",
     "android":"true",
     "windowsmobile":"false",
-    "windowsphone":"false",
+    "windowsphone":"true",
     "blackberry":"true",
     "symbian":"false",
     "meego": "false",
